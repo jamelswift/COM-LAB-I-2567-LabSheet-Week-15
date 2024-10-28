@@ -41,3 +41,8 @@
 
 ![alt text](./Pictures/image-41.png)
 
+
+ผลการเทสรัน
+![image](https://github.com/user-attachments/assets/b68a1f59-ca27-4402-9f03-43be0bbba36b)
+
+
