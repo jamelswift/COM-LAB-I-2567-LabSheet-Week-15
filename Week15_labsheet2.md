@@ -1,4 +1,4 @@
-# การทดลอง
+![image](https://github.com/user-attachments/assets/d8e2d015-cc0f-4d3c-ace9-17952d9a53ae)# การทดลอง
 ## การ debug .NET console application โดยใช้ Visual Studio Code
 
 ใบงานนี้จะทำการ debug .NET console application โดยใช้ Visual Studio Code
@@ -53,7 +53,10 @@
 ![alt text](./Pictures/image-23.png)
 
 **บันทึกผลการทดลอง**
-- การรันคำสั่ง Start Without Debugging ให้ผลเหมือนหรือต่างจากการ debug 
-- การตั้ง break point มีผลอย่างไรกับการรันในโหมด Start Without Debugging หรือไม่
+- การรันคำสั่ง Start Without Debugging ให้ผลเหมือนหรือต่างจากการ debug
+  ![image](https://github.com/user-attachments/assets/dde1e876-710c-46fb-a42f-a98b3a22cabe)
+  มีผลเหมือนกันค่ะ
 
+- การตั้ง break point มีผลอย่างไรกับการรันในโหมด Start Without Debugging หรือไม่
+ไม่มีผลในการรันโปรเเกรมในโหมด Start Without Debugging ค่ะ
 
